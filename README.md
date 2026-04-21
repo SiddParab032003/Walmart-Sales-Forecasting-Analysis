@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Time Series](https://img.shields.io/badge/Model-SARIMA-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 # Walmart-Sales-Forecasting-Analysis
 This project analyzes Walmart sales data and applies time series models (ARIMA &amp; SARIMA) to generate accurate forecasts and business insights.
 
